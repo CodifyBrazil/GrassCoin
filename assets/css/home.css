@@ -1,0 +1,87 @@
+.top-side-bar{
+	width: 100%;
+	height: 30px;
+	background-color: rgba(255,255,255,0.2);
+	color: #fff;
+	position: fixed;
+}
+
+.top-side-bar button{
+	margin-left: 80%;
+	width: 100px;
+	height: 30px;
+	background-color: rgba(0,0,0,0.3);
+	border: none;
+	border-radius: 2px;
+}
+
+.login-template{
+	position: fixed;
+	width: 200px;
+	height: 100px;
+	margin-left: 73%;
+	border-radius: 1px;
+	border: none;
+	box-shadow: 0 0 20px #ccc;
+	display: none;
+}
+
+.login-template button{
+	width: 70%;
+	height: 25px;
+	border-radius: 1px;
+	border: none;
+	background-color: #00a7d0;
+	color: #fff;
+	margin-left: 35px;
+	margin-top: 10px;
+}
+
+.image-top{
+	width: 100%;
+	height: 70%;	
+}
+
+.image-top img{
+	width: 100%;
+	height: 70%;
+}
+
+.select-lang{
+	margin-left: 90%;
+	position: fixed;
+	margin-top: -30px;
+	width: 100px;
+	height: 30px;
+	background-color: rgba(0,0,0,0.3);
+	border-radius: 1px;
+	line-height: 20px;
+}
+
+.select-lang img,
+.langs img{
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+}
+
+.select-lang a{
+	text-decoration: none;
+	color: #fff;
+	margin-left: 5px;
+}
+
+.langs{
+	width: 120px;
+	height: 100%;
+	box-shadow: 0 0 20 #ccc;
+	background-color: rgba(255, 255, 255, 0.4);
+	margin-left: 90%;
+	display: none;
+}
+
+.langs a{
+	text-decoration: none;
+	color: #333;
+	margin-left: 5px;
+}
