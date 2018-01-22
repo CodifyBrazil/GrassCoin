@@ -7,6 +7,6 @@
 
 			$dados = array();
 
-			$this->loadTemplate("notFound", $dados);
+			$this->loadTemplate("404", $dados);
 		}
 	}
