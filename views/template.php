@@ -35,7 +35,8 @@
 		</div>
 	</div>	
 	
-	<?php $this->loadViewInTemplate($viewName, $viewData) ?>
+	<?php $this->loadViewInTemplate($viewName, $viewData) ?><!-- As view sao carregadas aqui dentro  -->
+
 
 	
 	
