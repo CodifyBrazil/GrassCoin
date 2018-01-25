@@ -3,4 +3,4 @@
 <h4>Esta eh a view de exemplo, as variaveis do $dados vem para esta view...</h4><br /><br />
 
 <span>Mensagem vinda do controller exemplo:</span> <br />
-<strong><?php echo $exemplo; ?></strong>
+<strong><?php echo $exemploController; ?></strong>
